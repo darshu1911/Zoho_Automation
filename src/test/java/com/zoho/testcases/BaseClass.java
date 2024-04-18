@@ -29,7 +29,7 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static Logger logger;
 
-	@BeforeClass
+	@BeforeTest
 	public void setUp() 
 	{
 
@@ -67,7 +67,7 @@ public class BaseClass {
 				logger.info("Url oepned");
 	}
 
-	@AfterClass
+	@AfterTest
 	public void tearDown() 
 	{
 		driver.close();

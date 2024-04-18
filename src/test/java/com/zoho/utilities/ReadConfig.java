@@ -40,6 +40,26 @@ public class ReadConfig {
 			throw new RuntimeException("browser not specified in config file");
 	}
 	
+	public String getEmailID() 
+	{		
+		String value = prop.getProperty("EmailID");
+
+		if(value!=null)
+			return value;
+		else
+			throw new RuntimeException("EmailID not specified in config file");
+	}
+	
+	public String getPassword() 
+	{		
+		String value = prop.getProperty("Password");
+
+		if(value!=null)
+			return value;
+		else
+			throw new RuntimeException("Password is not specified in config file");
+	}
+	
 	public String getAccount() 
 	{		
 		String value = prop.getProperty("account");

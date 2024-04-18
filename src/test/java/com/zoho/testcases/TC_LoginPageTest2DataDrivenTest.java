@@ -38,15 +38,15 @@ public class TC_LoginPageTest2DataDrivenTest extends BaseClass {
 
     @DataProvider(name = "LoginDataProvider")
     public Object[][] loginDataProvider() {
-        String fileName = System.getProperty("user.dir") + "/TestData/MyStoreTestData.xlsx";
-        int totalRows = ReadExcelFile.getRowCount(fileName, "LoginTestData");
-        int totalColumns = ReadExcelFile.getColCount(fileName, "LoginTestData");
+        String fileName = System.getProperty("user.dir") + "\\Test Data\\Test Data.xlsx";
+        int totalRows = ReadExcelFile.getRowCount(fileName, "TC_LoginPageTestData");
+        int totalColumns = ReadExcelFile.getColumnCount(fileName, "TC_LoginPageTestData");
 
         Object[][] data = new Object[totalRows - 1][totalColumns]; // Adjusted to skip header row
 
         for (int i = 1; i < totalRows; i++) {
             for (int j = 0; j < totalColumns; j++) {
-                data[i - 1][j] = ReadExcelFile.getCellValue(fileName, "LoginTestData", i, j);
+                data[i - 1][j] = ReadExcelFile.getCellValue(fileName, "TC_LoginPageTestData", i, j);
             }
         }
         return data;

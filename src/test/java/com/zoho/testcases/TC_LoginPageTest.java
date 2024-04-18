@@ -87,7 +87,7 @@ public class TC_LoginPageTest extends BaseClass{
 		String userName = regUser.getUserName();
 		System.out.println(userName);
 		
-		if(userName.equals("Dadeepika758"))
+		if(userName.equals("Dasdeepika758"))
 		{
 			logger.info("verifyUser - passed");
 			Assert.assertTrue(true);

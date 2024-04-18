@@ -1,13 +1,79 @@
-[INFO ] 2024-04-16 12:45:07.745 [main] Zoho - Url oepned
-[INFO ] 2024-04-16 12:45:09.264 [main] Zoho - Sigin in Link clicked succesfully
-[INFO ] 2024-04-16 12:45:10.204 [main] Zoho - Email id entered succesfully
-[INFO ] 2024-04-16 12:45:10.263 [main] Zoho - Next button clicked succesfully
-[INFO ] 2024-04-16 12:45:10.343 [main] Zoho - Password entered succesfully
-[INFO ] 2024-04-16 12:45:10.384 [main] Zoho - Login in button clicked succesfully
-[INFO ] 2024-04-16 12:45:15.177 [main] Zoho - verifyLogin - Passed
-[INFO ] 2024-04-16 12:45:15.356 [main] Zoho - Drop down clicked succesfully
-[INFO ] 2024-04-16 12:45:15.515 [main] Zoho - Market link clicked succesfully
-[INFO ] 2024-04-16 12:45:22.187 [main] Zoho - Form button clicked succesfully
-[INFO ] 2024-04-16 12:45:23.932 [main] Zoho - verifyProdPage - passed
-[INFO ] 2024-04-16 12:45:24.005 [main] Zoho - Clicked on MyAccount Image
-[INFO ] 2024-04-16 12:45:24.048 [main] Zoho - verifyUser - failed
+[INFO ] 2024-04-18 12:31:07.052 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:38:09.893 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:42:58.132 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:45:22.363 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:49:15.564 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:55:01.591 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:55:55.302 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:57:48.385 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 12:59:19.317 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 13:00:41.303 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:05:07.873 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:09:31.025 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:12:17.738 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:13:40.745 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:14:17.962 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:16:09.531 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:33:26.415 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:33:28.339 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 14:33:28.902 [main] Zoho - Email id entered successfully
+[INFO ] 2024-04-18 14:33:28.971 [main] Zoho - Next button clicked successfully
+[INFO ] 2024-04-18 14:37:25.887 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:37:26.708 [main] Zoho - Sigin in Link clicked succesfully
+[INFO ] 2024-04-18 14:37:27.368 [main] Zoho - Email id entered succesfully
+[INFO ] 2024-04-18 14:37:27.428 [main] Zoho - Next button clicked succesfully
+[INFO ] 2024-04-18 14:37:27.502 [main] Zoho - Password entered succesfully
+[INFO ] 2024-04-18 14:37:27.549 [main] Zoho - Login in button clicked succesfully
+[INFO ] 2024-04-18 14:37:31.603 [main] Zoho - verifyLogin - Passed
+[INFO ] 2024-04-18 14:37:31.806 [main] Zoho - Drop down clicked succesfully
+[INFO ] 2024-04-18 14:37:31.933 [main] Zoho - Market link clicked succesfully
+[INFO ] 2024-04-18 14:37:34.131 [main] Zoho - Form button clicked succesfully
+[INFO ] 2024-04-18 14:37:34.162 [main] Zoho - verifyProdPage - passed
+[INFO ] 2024-04-18 14:37:34.306 [main] Zoho - Clicked on MyAccount Image
+[INFO ] 2024-04-18 14:37:34.410 [main] Zoho - verifyUser - passed
+[INFO ] 2024-04-18 14:37:35.809 [main] Zoho - Sign out successfully
+[INFO ] 2024-04-18 14:37:54.515 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:37:57.887 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 14:37:58.521 [main] Zoho - Email id entered successfully
+[INFO ] 2024-04-18 14:37:58.588 [main] Zoho - Next button clicked successfully
+[INFO ] 2024-04-18 14:37:58.827 [main] Zoho - Password entered successfully
+[INFO ] 2024-04-18 14:37:58.884 [main] Zoho - Login button clicked successfully
+[INFO ] 2024-04-18 14:41:12.364 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:41:14.236 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 14:41:14.912 [main] Zoho - Email id entered successfully
+[INFO ] 2024-04-18 14:41:14.980 [main] Zoho - Next button clicked successfully
+[INFO ] 2024-04-18 14:41:15.178 [main] Zoho - Password entered successfully
+[INFO ] 2024-04-18 14:41:15.238 [main] Zoho - Login button clicked successfully
+[INFO ] 2024-04-18 14:41:19.210 [main] Zoho - verifyLogin - Passed
+[INFO ] 2024-04-18 14:42:53.068 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:42:55.805 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 14:42:56.335 [main] Zoho - Email id entered successfully
+[INFO ] 2024-04-18 14:42:56.413 [main] Zoho - Next button clicked successfully
+[INFO ] 2024-04-18 14:42:56.490 [main] Zoho - Password entered successfully
+[INFO ] 2024-04-18 14:42:56.536 [main] Zoho - Login button clicked successfully
+[INFO ] 2024-04-18 14:43:00.700 [main] Zoho - verifyLogin - Passed
+[INFO ] 2024-04-18 14:43:02.763 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 14:46:51.251 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:46:53.657 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 14:46:54.314 [main] Zoho - Email id entered successfully
+[INFO ] 2024-04-18 14:46:54.373 [main] Zoho - Next button clicked successfully
+[INFO ] 2024-04-18 14:46:54.447 [main] Zoho - Password entered successfully
+[INFO ] 2024-04-18 14:46:54.492 [main] Zoho - Login button clicked successfully
+[INFO ] 2024-04-18 14:46:57.601 [main] Zoho - verifyLogin - Passed
+[INFO ] 2024-04-18 14:50:39.110 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:51:44.704 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:53:39.322 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:55:59.280 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:57:28.103 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 14:59:25.155 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 15:00:31.562 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 15:00:33.599 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 15:00:34.120 [main] Zoho - Email id entered successfully
+[INFO ] 2024-04-18 15:00:34.202 [main] Zoho - Next button clicked successfully
+[INFO ] 2024-04-18 15:06:20.208 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 15:06:22.847 [main] Zoho - Sign in Link clicked successfully
+[INFO ] 2024-04-18 15:16:21.644 [main] Zoho - Url oepned
+[INFO ] 2024-04-18 15:16:21.960 [main] Zoho - Drop down clicked succesfully
+[INFO ] 2024-04-18 15:16:22.104 [main] Zoho - Market link clicked succesfully
+[INFO ] 2024-04-18 15:16:30.011 [main] Zoho - Form button clicked succesfully
+[INFO ] 2024-04-18 15:16:30.279 [main] Zoho - verifyProdPage - failed

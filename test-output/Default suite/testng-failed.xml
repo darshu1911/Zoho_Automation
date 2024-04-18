@@ -5,6 +5,7 @@
     <classes>
       <class name="com.zoho.testcases.TC_LoginPageTest">
         <methods>
+          <include name="tearDown"/>
           <include name="verifyProdPage"/>
           <include name="verifyLogin"/>
           <include name="setUp"/>
