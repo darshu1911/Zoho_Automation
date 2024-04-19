@@ -20,7 +20,7 @@ public class ReadXLSData {
     
     @DataProvider(name ="bvData")
     public static Object[][] getData() throws EncryptedDocumentException, IOException {
-        path = new File(System.getProperty("user.dir")+ "\\Test Data\\Test Data.xlsx");
+        path = new File(System.getProperty("user.dir")+ "\\Test Data\\LoginTestData.xlsx");
         fis = new FileInputStream(path);
         wb = WorkbookFactory.create(fis);
         sheetName = wb.getSheet("TC_LoginPageTestData");

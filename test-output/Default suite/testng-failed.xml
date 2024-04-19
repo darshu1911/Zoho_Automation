@@ -3,15 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.zoho.testcases.TC_LoginPageTest">
+      <class name="com.zoho.testcases.TC_LoginPageTest2DataDrivenTest">
         <methods>
           <include name="tearDown"/>
-          <include name="verifyProdPage"/>
-          <include name="verifyLogin"/>
           <include name="setUp"/>
-          <include name="verifyUser"/>
+          <include name="verifyLogin" invocation-numbers="1"/>
         </methods>
-      </class> <!-- com.zoho.testcases.TC_LoginPageTest -->
+      </class> <!-- com.zoho.testcases.TC_LoginPageTest2DataDrivenTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

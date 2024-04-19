@@ -38,7 +38,7 @@ public class TC_LoginPageTest2DataDrivenTest extends BaseClass {
 
     @DataProvider(name = "LoginDataProvider")
     public Object[][] loginDataProvider() {
-        String fileName = System.getProperty("user.dir") + "\\Test Data\\Test Data.xlsx";
+        String fileName = System.getProperty("user.dir") + "\\Test Data\\LoginTestData.xlsx";
         int totalRows = ReadExcelFile.getRowCount(fileName, "TC_LoginPageTestData");
         int totalColumns = ReadExcelFile.getColumnCount(fileName, "TC_LoginPageTestData");
 
